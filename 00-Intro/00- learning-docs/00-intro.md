@@ -10,7 +10,7 @@
 
 ### Understanding NodeJS usage:
 
-- User uses Web browser which then makes a request to the server that returns HTML content
+- User Web browser which then makes a request to the server that returns HTML content
 - Said Server is responsible for:
   - Database
   - Authentication
@@ -21,7 +21,7 @@
 
 With NodeJS:
 
-- You create Server and Listen to Incoming Requests
+- You create a Server and Listen to Incoming Requests
 - Handle Requests , Valdiate Input, Connect to DB
 - Return responses (Rendered HTML, JSON, etc...)
 
